@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+.btn {
+    width: 591px;
+    height: 167px;
+    border-radius: 30px;
+    background: #2EF559;
+    color: #236033;
+    text-align: center;
+    font-family: "Krona One";
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    outline: none;
+    border: none;
+}
+
+.btn:hover {
+    background: #1F9A3B;
+}
